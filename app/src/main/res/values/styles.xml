@@ -1,0 +1,10 @@
+<resources>
+    <style name="CustomSearchView" parent="Widget.AppCompat.SearchView">
+        <!-- Change the search text color -->
+        <item name="android:textColor">#FFFFFF</item>
+        <!-- Change the query hint color -->
+
+        <item name="android:editTextColor">#FFFFFF</item>
+        <item name="android:textColorHint">#FFFFFF</item>
+    </style>
+</resources>
